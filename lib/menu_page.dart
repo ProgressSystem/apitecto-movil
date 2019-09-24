@@ -49,7 +49,7 @@ class MenuScreen extends StatelessWidget {
                 Padding(
                   padding: const EdgeInsets.only(right: 16),
                   child: new Container(
-                    width: 260.0,
+                    width: 240.0,
                     height: 100.0,
                     decoration: BoxDecoration(
                       image: DecorationImage(
